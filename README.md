@@ -1,49 +1,48 @@
 ## Table of contents
 
-- [PROJECT TITLE](#Project-Title)
-- [DESCRIPTION](#Description)
-- [HOW TO RUN PROGRAM](#How-to-run-program)
-- [FILES USED](#files-used)
-- [ADDITIONAL DOCUMENTATION](#additional-documentation)
-- [VERSIONING](#versioning)
+- **[Project Title](#Project-Title)
+- **[Description](#Description)
+- **[How to run program](#How-to-run-program)
+- **[Files used](#files-used)
+- **[Additional Documentation](#additional-documentation)
+- **[Versioning](#versioning)
 
 ## Project Title
 
-*Hello World Sample* 
+*Hello World for BAIS:3050 Spr21* 
 
 ## Description
 
-Practice using GitHub by creating a sample repository
+This program was made as an assignment for week 3 to pratice making a repossitory 
 
 ## How to Run Program 
 
-Explain here how you would run the program and what files need to be available. 
+This section would be use to explain the files necessary to run the program and how to operate the program 
 ```text
 Hello_World/
 └── 
     │── README.md
-    │── pgmname1.R
-    │── filename1.csv
-    │── examples.html
+    │── gohawks.R
+    │── IowaBasketball.csv
+    │── IowaBAIS.html
    
 ```
 
 ## Files Used 
 
-- Did you use any datafiles?  
-- List filenames
-- Where you got them 
-- What is contained within the data files?
-- Datafile considerations 
-- URL links to files - example here:
-[Baby names from 1880 to present](https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data)
+- 2 Data files were used 
+- Filenames: gohawks.R, IowaBasketball.csv
+- Files were sourced from personal data gathering 
+- Hypothetical files contain players game statistics  
+- Datafiles are each less than 10 mb
+[ESPN IOWA BASKETBALL STATS](https://www.espn.com/mens-college-basketball/team/stats/_/id/2294)
 
 
 ## Additional Documentation
 
-No additional documentation at this time.  Here is some **BOLD** text 
+*This project requires not further documentation.*
 
 
 ## Versioning
 
-Discuss any versioning used especially if you are making major changes throughout the process of your code.
+This is version 1.0.0 of this document as of Feb. 8, 2021.
